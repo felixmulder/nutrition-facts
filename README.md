@@ -80,5 +80,5 @@ At the moment of writing the author does not have any affiliation with any of th
 
 These links and studies have been taken in the author's research, the sources being:
 
-- "The Obesity Code", a well researched book by Dr. Jason Fung
+- [The Obesity Code](https://www.goodreads.com/book/show/24945404-the-obesity-code), a well researched book by Dr. Jason Fung
 - ...
