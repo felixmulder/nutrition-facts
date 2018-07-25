@@ -6,15 +6,15 @@ A repository with resources and credible studies on nutrition, cardiovascular di
 
 ### Do Low Fat Diets Lower the Risk for Heart Disease?
 
-TL;DR: NO, by adopting a Low Fat diet there's no significant benefit in terms of heart health!
+NO, at the moment there's evidence suggesting that by adopting a Low Fat diet there's no significant benefit in terms of heart health!
 
 The [Women's Health Initiative](https://en.wikipedia.org/wiki/Women%27s_Health_Initiative) conducted a study called "*Low-fat dietary pattern and cardiovascular disease* and here are the findings:
 
 [www.ncbi.nlm.nih.gov/pubmed/28515068](https://www.ncbi.nlm.nih.gov/pubmed/28515068)
 
-This study was done on randomized control trial done on almost 50,000 women aged 50-79 years for a duration of 8 years, being one of the biggest and most costly studies on dietary fat. It's notable because versus weaker, more biased observational studies, this kind of study cannot be easily ignored due to its scale and the methodology being used.
+This study was a [randomized control trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial) done on almost 50,000 women aged 50-79 years for a duration of 8 years, being one of the biggest and most costly dietary studies ever made. It's notable because versus weaker, more biased [observational studies](https://en.wikipedia.org/wiki/Observational_study), this kind of study cannot be easily ignored due to its scale and the methodology being used.
 
-What it shows is that addopting low carb diets does not lower the risk of heart disease. No difference in heart attacks, no difference in strokes, no difference in deaths, no matter how you break it down.
+What it shows is that addopting low carb diets does not lower the risk of heart disease. E.g. no difference in heart attacks, no difference in strokes, no difference in deaths, no matter how you break it down.
 
 ## Resources
 
