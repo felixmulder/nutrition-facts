@@ -9,7 +9,7 @@
   - [Do low fat diets lower the risk for heart disease?](#do-low-fat-diets-lower-the-risk-for-heart-disease)
   - [Are obese children destined to become obese adults?](#are-obese-children-destined-to-become-obese-adults)
   - [Does obesity happen as a result of the environment?](#does-obesity-happen-as-a-result-of-the-environment)
-  - [Is obesity a predisposition by the inherited genes?](#is-obesity-a-predisposition-by-the-inherited-genes)
+  - [Is obesity a predisposition of the inherited genes?](#is-obesity-a-predisposition-of-the-inherited-genes)
 - [Resources](#resources)
 - [Disclaimer](#disclaimer)
 - [Credits](#credits)
