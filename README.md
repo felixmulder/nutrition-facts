@@ -10,6 +10,21 @@ The criteria by which studies get mentioned is:
 
 Or in other words the usual criteria for rating academic papers.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [Do low fat diets lower the risk for heart disease?](#do-low-fat-diets-lower-the-risk-for-heart-disease)
+  - [Are obese children destined to become obese adults?](#are-obese-children-destined-to-become-obese-adults)
+  - [Does obesity happens as a result of the environment?](#does-obesity-happens-as-a-result-of-the-environment)
+  - [Is obesity a predisposition by the inherited genes?](#is-obesity-a-predisposition-by-the-inherited-genes)
+- [Resources](#resources)
+- [Disclaimer](#disclaimer)
+- [Credits](#credits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Frequently Asked Questions
 
 ### Do low fat diets lower the risk for heart disease?
@@ -28,7 +43,7 @@ There is a high probability, yes.
 
 [Predicting Obesity in Young Adulthood from Childhood and Parental Obesity](https://www.nejm.org/doi/full/10.1056/NEJM199709253371301) by Robert C. Whitaker et all, has the conclusions:
 
-> Obese children under three years of age without obese parents are at low risk for obesity in adulthood, but among older children, obesity is an increasingly important predictor of adult obesity, regardless of whether the parents are obese. Parental obesity more than doubles the risk of adult obesity among both obese and nonobese children under 10 years of age. 
+> Obese children under three years of age without obese parents are at low risk for obesity in adulthood, but among older children, obesity is an increasingly important predictor of adult obesity, regardless of whether the parents are obese. Parental obesity more than doubles the risk of adult obesity among both obese and nonobese children under 10 years of age.
 
 Another study would be: [The predictive value of childhood body mass index values for overweight at age 35 y](https://academic.oup.com/ajcn/article-abstract/59/4/810/4715794) by Guo SS, Roche AF, Chumlea WC, Gardner JD, Siervogel RM.
 
