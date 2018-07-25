@@ -1,19 +1,10 @@
 # Nutrition Facts
 
-A repository with resources and credible studies on nutrition, cardiovascular disease and type 2 diabetes, slightly biased on the reporting of high fat, low carb dieting (but any study is accepted on PRs as long as it is truthful).
-
-The criteria by which studies get mentioned is:
-
-1. published by reputable journals
-2. credible, with no outstanding critiques (conspiracy theories on this and that industry not allowed as arguments)
-3. mentioned by others
-
-Or in other words the usual criteria for rating academic papers.
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Introduction](#introduction)
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [Do low fat diets lower the risk for heart disease?](#do-low-fat-diets-lower-the-risk-for-heart-disease)
   - [Are obese children destined to become obese adults?](#are-obese-children-destined-to-become-obese-adults)
@@ -24,6 +15,18 @@ Or in other words the usual criteria for rating academic papers.
 - [Credits](#credits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Introduction
+
+This is a repository with resources and credible studies on nutrition, cardiovascular disease and type 2 diabetes, slightly biased on the reporting of high fat, low carb dieting (but any study is accepted on PRs as long as it is truthful).
+
+The criteria by which studies get mentioned is the usual criteria for rating academic papers:
+
+1. published by reputable journals
+2. credible, with no outstanding critiques (conspiracy theories on this and that industry not allowed as arguments)
+3. mentioned by others
+
+PRs welcome ;-)
 
 ## Frequently Asked Questions
 
