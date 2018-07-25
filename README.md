@@ -1,6 +1,6 @@
 # Nutrition Facts
 
-A repository with resources and credible studies on nutrition, cardiovascular disease and type 2 diabetes, slightly biased on the reporting of high fat, low carb dieting.
+A repository with resources and credible studies on nutrition, cardiovascular disease and type 2 diabetes, slightly biased on the reporting of high fat, low carb dieting (but any study is accepted on PRs as long as it is truthful).
 
 ## Frequently Asked Questions
 
@@ -17,6 +17,8 @@ This study was a [randomized control trial](https://en.wikipedia.org/wiki/Random
 What it shows is that addopting low carb diets does not lower the risk of heart disease. E.g. no difference in heart attacks, no difference in strokes, no difference in deaths, no matter how you break it down.
 
 ## Resources
+
+For the Keto diet and Fasting:
 
 - [Obesity Code](https://www.goodreads.com/book/show/24945404-the-obesity-code) by Dr. Jason Fung, a book describing how our metabolism works, why we get fat, or get sick with type 2 diabetes and what can we do about it
 - [The Complete Guide to Fasting](https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting) by Dr. Jason Fung, on the benefits and science of fasting
