@@ -77,7 +77,7 @@ But if that's the case, then this is in fact a blow to the "*calories in, calori
 1. [Trends in intake of energy and macronutrients--United States, 1971-2000](https://www.ncbi.nlm.nih.gov/pubmed/14762332) says that "*during 1971-2000, the prevalence of obesity in the United States increased from 14.5% to 30.9%.*"
 2. [Obesity, Abdominal Obesity, Physical Activity, and Caloric Intake in US Adults: 1988 to 2010](https://www.amjmed.com/article/S0002-9343(14)00191-0/abstract) says that "*average body mass index (BMI) increased by 0.37% (95% confidence interval [CI], 0.30-0.44) per year in both women and men.*"
 
-Genes cannot evolve in mere decades, like between 1970 and 2010. It's not the environment, so something else is making parents give birth children predisposed to obesity.
+Genes cannot evolve in mere decades, like between 1970 and 2010. It's not the environment, so something else is making parents give birth to children predisposed to obesity.
 
 ## Resources
 
