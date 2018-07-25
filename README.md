@@ -8,7 +8,7 @@
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [Do low fat diets lower the risk for heart disease?](#do-low-fat-diets-lower-the-risk-for-heart-disease)
   - [Are obese children destined to become obese adults?](#are-obese-children-destined-to-become-obese-adults)
-  - [Does obesity happens as a result of the environment?](#does-obesity-happens-as-a-result-of-the-environment)
+  - [Does obesity happen as a result of the environment?](#does-obesity-happen-as-a-result-of-the-environment)
   - [Is obesity a predisposition by the inherited genes?](#is-obesity-a-predisposition-by-the-inherited-genes)
 - [Resources](#resources)
 - [Disclaimer](#disclaimer)
@@ -52,7 +52,7 @@ Another study would be: [The predictive value of childhood body mass index value
 
 This article is behind a pay wall unfortunately, but it shows that obese children grow up to be obese adults.
 
-### Does obesity happens as a result of the environment?
+### Does obesity happen as a result of the environment?
 
 Environment plays a smaller part than many people think. At the moment there's evidence to suggest that 70% of the inclination for obesity is inherited, while only about 30% are things we can control.
 
@@ -68,9 +68,9 @@ This one studied samples of identical and fraternal twins, reared apart or reare
 
 > We conclude that genetic influences on body-mass index are substantial, whereas the childhood environment has little or no influence. These findings corroborate and extend the results of earlier studies of twins and adoptees. (N Engl J Med 1990; 322:1483–7.)
 
-### Is obesity a predisposition by the inherited genes?
+### Is obesity a predisposition of the inherited genes?
 
-Not really. Yes, we answered the question of "*does obesity happens as a result of the environment?*", by observing that children are very predisposed to obesity via their biological parents.
+Not enough to explain the obesity epidemic. Yes, we answered the question of "*does obesity happen as a result of the environment?*", by observing that children are very predisposed to obesity via their biological parents.
 
 But if that's the case, then this is in fact a blow to the "*calories in, calories out*" fad, for this very simple reason:
 
